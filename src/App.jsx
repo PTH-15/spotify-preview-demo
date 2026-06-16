@@ -9,7 +9,7 @@ function App() {
         padding: "20px"
       }}
     >
-      <h1>TuneVault</h1>
+      <h1>lol</h1>
 
       <h2>KOHRA</h2>
 
